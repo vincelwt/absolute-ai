@@ -1,0 +1,16 @@
+{
+  "name": "absolute",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.7.3"
+  },
+  "dependencies": {
+    "hono": "^4.6.18",
+    "openai": "^4.80.0",
+    "zod": "^3.24.1"
+  }
+}
